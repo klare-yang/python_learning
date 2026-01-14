@@ -92,3 +92,5 @@ dist/
 *~
 *.swp
 *.swo
+
+.obsidian/
