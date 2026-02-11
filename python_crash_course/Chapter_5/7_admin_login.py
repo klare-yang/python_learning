@@ -10,12 +10,16 @@ def check(list):
     else:
         print("We need to find some user.")
 
-check(name_list)
+# check(name_list)
 
 # for name in name_list:
 #     del name_list[0]
 
 # name_list.clear()
-# del name_list[0:]
+
+del name_list[0:]
+
+# while name_list:
+#     del name_list[0]
 
 check(name_list)

@@ -1,7 +1,3 @@
----
-tags:
-  - python
----
 ## Function（自由函数, free function）
 
 - 定义：不依附于任何对象、独立存在的函数
